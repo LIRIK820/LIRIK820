@@ -6,12 +6,12 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@thedarkensdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thedarkensdev)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f10,50:18181b,100:2563eb)
 
 </div>
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f10,50:18181b,100:2563eb)
+[![Telegram](https://img.shields.io/badge/Telegram-@thedarkensdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thedarkensdev)
 
 </div>
